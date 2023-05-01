@@ -4,3 +4,13 @@
         /* margin: 0; */
     }
 }
+
+p {
+    text-align: justify;
+    font-size: 1.15em;
+}
+
+.text-bg-water {
+    color:#000!important;
+    background-color:RGBA(100,200,255,var(--bs-bg-opacity,1))!important;
+}
